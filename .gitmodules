@@ -1,0 +1,15 @@
+[submodule "Classic.Shell.Scripting"]
+	path = Classic.Shell.Scripting
+	url = git@github.com:hexu1985/Classic.Shell.Scripting.git
+[submodule "Linux.Shell.Scripting.Cookbook"]
+	path = Linux.Shell.Scripting.Cookbook
+	url = git@github.com:hexu1985/Linux.Shell.Scripting.Cookbook.git
+[submodule "UNIX.Shells.By.Example"]
+	path = UNIX.Shells.By.Example
+	url = git@github.com:hexu1985/UNIX.Shells.By.Example.git
+[submodule "Expert.Shell.Scripting"]
+	path = Expert.Shell.Scripting
+	url = git@github.com:hexu1985/Expert.Shell.Scripting.git
+[submodule "Shell.Scripting.Expert.Recipes"]
+	path = Shell.Scripting.Expert.Recipes
+	url = git@github.com:hexu1985/Shell.Scripting.Expert.Recipes.git
